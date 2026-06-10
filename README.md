@@ -22,7 +22,7 @@ Este repositorio contiene la implementación de los modelos de Machine Learning 
 ## Dataset
 
 El dataset utilizado es el CICIDS2017, disponible en:  
-https://www.unb.ca/cic/datasets/ids-2017.html
+https://www.kaggle.com/datasets/chethuhn/network-intrusion-dataset
 
 De todos los archivos disponibles, este proyecto utiliza los siguientes seis ficheros CSV:
 
